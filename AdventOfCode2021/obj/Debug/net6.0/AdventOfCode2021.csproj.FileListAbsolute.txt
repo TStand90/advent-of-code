@@ -16,3 +16,4 @@ C:\Users\Tyler's PC\RiderProjects\AdventOfCode\AdventOfCode2021\obj\Debug\net6.0
 C:\Users\Tyler's PC\RiderProjects\AdventOfCode\AdventOfCode2021\bin\Debug\net6.0\Day1\input.txt
 C:\Users\Tyler's PC\RiderProjects\AdventOfCode\AdventOfCode2021\bin\Debug\net6.0\Day2\input.txt
 C:\Users\Tyler's PC\RiderProjects\AdventOfCode\AdventOfCode2021\bin\Debug\net6.0\Day3\input.txt
+C:\Users\Tyler's PC\RiderProjects\AdventOfCode\AdventOfCode2021\bin\Debug\net6.0\Day4\input.txt
